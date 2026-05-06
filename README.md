@@ -50,7 +50,3 @@ digital product teams.
    github     →  github.com/psoldunov
   ─────────────────────────────────────────────
 ```
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psoldunov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="psoldunov stats" />
-</p>
