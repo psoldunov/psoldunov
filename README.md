@@ -1,4 +1,4 @@
-```
+bb```
       _    _ _ _                     _    _
  _ __| |_ (_) (_)_ __ _ __   ___ ___| |__| |_  _ _ _  _____ __
 | '_ \ ' \| | | | '_ \ '_ \ (_-</ _ \ / _` | || | ' \/ _ \ V /
@@ -33,10 +33,9 @@ digital product teams.
 ```
   soldunov.dev/                next.js · sanity · motion        → personal site
   sanity-starter/              next.js 16 · react 19 · sanity   → opinionated starter
-  webflow-webpack-starter/     webpack · ts                     → ★ used in the wild
+  viteflow/                    vite · webflow · ts              → ★ used in the wild
   adguardhome-unbound/         docker                           → adguard + unbound, one image
   nixfiles{,-darwin}/          nix                              → daily-driver configs
-  proposal-ai/                 next.js · ai                     → side bet
 ```
 
 ---
